@@ -1,0 +1,133 @@
+/* Landing.module.css */
+.mainSection {
+    text-align: center;
+    position: relative;
+    color: orange;
+  }
+  
+  .purpleText {
+    color: rgb(232, 155, 255);
+  }
+  
+
+  .mainImage {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .textOverlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 2px 2px 4px #000000;
+  }
+
+  .imageSection {
+    background-color: rgb(255, 201, 100);
+  }
+
+  .card {
+    width: 300px; /* Fixed card width */
+    border: none;
+    border-radius: 10px; /* Rounded corners for the card */
+    overflow: hidden; /* Hide overflow for the image */
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Card shadow */
+    transition: transform 0.3s ease; /* Smooth transform on hover */
+  }
+  
+  .card:hover {
+    transform: scale(1.05); /* Slightly increase card size on hover */
+  }
+  
+  .card img {
+    width: 100%;
+    display: block;
+  }
+  
+  .cardBody {
+    padding: 15px;
+    background-color: #fff;
+  }
+  
+  .cardTitle {
+    margin: 0;
+    color: #333; /* Dark text for readability */
+  }
+  
+  .cardText {
+    color: #666; /* Lighter text for the card description */
+  }
+  
+  .rating {
+    background-color: #28a745; /* Green background for the rating */
+    color: #fff;
+    padding: 5px 10px;
+    display: inline-block;
+    margin-top: 15px;
+    border-radius: 5px; /* Rounded corners for the rating tag */
+  }
+
+  /* Existing styles... */
+
+.card {
+    position: relative;
+    width: 300px;
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cardImage {
+    width: 100%;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+  
+  .cardOverlay {
+    position: absolute;
+    bottom: 20%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: none;
+    padding: 5px 0;
+  }
+  
+  .cardTitle,
+  .cardChef {
+    margin: 0;
+    color: white;
+    font-weight:bold;
+  }
+  
+  .cardRating {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: green;
+    color: #fff;
+    padding: 5px 0;
+    text-align: center;
+  }
+  
+  /* Footer styles... */
+  
+  
+  .footer {
+    text-align: center;
+    padding: 20px 0;
+    border-top: 1px solid #ccc;
+    background-color: black;
+    color: white;
+  }
+  
+  .socialLink {
+    margin: 0 10px;
+  }
+  

@@ -1,0 +1,294 @@
+[{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f724"
+  },
+  "userId": 1,
+  "fullName": "John Doe",
+  "email": "john.doe@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "admin",
+  "savedRecipes": [
+    1,
+    3,
+    5
+  ],
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f725"
+  },
+  "userId": 2,
+  "fullName": "Jane Smith",
+  "email": "jane.smith@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    2,
+    4
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f726"
+  },
+  "userId": 3,
+  "fullName": "Alice Johnson",
+  "email": "alice.johnson@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    6,
+    7
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f727"
+  },
+  "userId": 4,
+  "fullName": "Bob Brown",
+  "email": "bob.brown@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "chef",
+  "savedRecipes": [
+    8,
+    9
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f728"
+  },
+  "userId": 5,
+  "fullName": "Emily Wilson",
+  "email": "emily.wilson@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    10,
+    12
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f729"
+  },
+  "userId": 6,
+  "fullName": "Michael Davis",
+  "email": "michael.davis@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    11,
+    13
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f72a"
+  },
+  "userId": 7,
+  "fullName": "Sophia Taylor",
+  "email": "sophia.taylor@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "chef",
+  "savedRecipes": [
+    14,
+    15
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f72b"
+  },
+  "userId": 8,
+  "fullName": "David Lee",
+  "email": "david.lee@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    16,
+    18
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f72c"
+  },
+  "userId": 9,
+  "fullName": "Olivia Garcia",
+  "email": "olivia.garcia@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    17,
+    19
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f72d"
+  },
+  "userId": 10,
+  "fullName": "Noah Martinez",
+  "email": "noah.martinez@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "chef",
+  "savedRecipes": [
+    20,
+    22
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f72e"
+  },
+  "userId": 11,
+  "fullName": "Ava Rodriguez",
+  "email": "ava.rodriguez@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    21,
+    23
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f72f"
+  },
+  "userId": 12,
+  "fullName": "Ethan Hernandez",
+  "email": "ethan.hernandez@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    24,
+    26
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f730"
+  },
+  "userId": 13,
+  "fullName": "Isabella Lopez",
+  "email": "isabella.lopez@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    25,
+    27
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f731"
+  },
+  "userId": 14,
+  "fullName": "Mia Gonzalez",
+  "email": "mia.gonzalez@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "chef",
+  "savedRecipes": [
+    28,
+    29
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f732"
+  },
+  "userId": 15,
+  "fullName": "James Perez",
+  "email": "james.perez@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    30,
+    32
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f733"
+  },
+  "userId": 16,
+  "fullName": "Camila Torres",
+  "email": "camila.torres@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    31,
+    33
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f734"
+  },
+  "userId": 17,
+  "fullName": "Alexander Flores",
+  "email": "alexander.flores@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    34,
+    36
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f735"
+  },
+  "userId": 18,
+  "fullName": "Evelyn Collins",
+  "email": "evelyn.collins@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    35,
+    37
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f736"
+  },
+  "userId": 19,
+  "fullName": "Daniel Stewart",
+  "email": "daniel.stewart@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "chef",
+  "savedRecipes": [
+    38,
+    39
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611ca6824ef522541e5f737"
+  },
+  "userId": 20,
+  "fullName": "Sophie Bell",
+  "email": "sophie.bell@example.com",
+  "password": "$2b$10$ZGNbiFEOFCbbF.t.zoo9qOT9ktpjVo8OqwDtjZO8Cz91qXKFrRTgK",
+  "role": "user",
+  "savedRecipes": [
+    40,
+    42
+  ]
+},
+{
+  "_id": {
+    "$oid": "6611e0c046d4524855ec9306"
+  },
+  "userId": 21,
+  "fullName": "Random Guy",
+  "email": "random.guy@example.com",
+  "password": "$2b$10$aabqxgLaO//o0hwHjmLT9eecVA1uNixflT.5m3gaMoUAXlNXbCfOe",
+  "role": "chef",
+  "savedRecipes": [],
+  "__v": 0
+}]

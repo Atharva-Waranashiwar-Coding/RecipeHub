@@ -1,0 +1,202 @@
+[
+    {
+      "recipeId": 1,
+      "name": "Classic Spaghetti Carbonara",
+      "imagePath": "images/spaghetti_carbonara.jpg",
+      "description": "Classic Spaghetti Carbonara is a simple yet delicious pasta dish. To make it, start by boiling spaghetti until al dente. In a separate pan, cook diced pancetta until crispy. In a bowl, whisk together eggs, grated Parmesan cheese, and black pepper. Drain the cooked spaghetti and toss it in the pan with the pancetta, allowing the heat to cook the eggs and melt the cheese. Serve immediately with additional Parmesan and black pepper.",
+      "ingredients": ["spaghetti", "eggs", "Parmesan cheese", "pancetta", "black pepper"],
+      "creatorId": 3,
+      "ratings": [4, 5, 4, 3],
+      "tags": ["Italian", "Pasta"]
+    },
+    {
+      "recipeId": 2,
+      "name": "Spicy Chicken Curry",
+      "imagePath": "images/chicken_curry.jpg",
+      "description": "Spicy Chicken Curry is a flavorful Indian dish. To make it, sauté onions, garlic, and ginger in oil until fragrant. Add chicken pieces and cook until browned. Stir in curry powder, chili powder, turmeric, and tomato paste. Pour in coconut milk and simmer until the chicken is cooked through. Serve hot with rice or naan bread.",
+      "ingredients": ["chicken", "onion", "garlic", "ginger", "curry powder", "chili powder", "turmeric", "coconut milk", "tomato paste"],
+      "creatorId": 4,
+      "ratings": [5, 4, 4],
+      "tags": ["Curry", "Spicy"]
+    },
+    {
+      "recipeId": 3,
+      "name": "Decadent Chocolate Cake",
+      "imagePath": "images/chocolate_cake.jpg",
+      "description": "Decadent Chocolate Cake is a rich and moist dessert that's perfect for any occasion. To make it, cream together butter and sugar until light and fluffy. Beat in eggs one at a time, then mix in melted chocolate. Fold in flour, cocoa powder, baking powder, and salt until just combined. Pour the batter into a greased cake pan and bake until a toothpick inserted into the center comes out clean. Let it cool before frosting with your favorite chocolate frosting.",
+      "ingredients": ["butter", "sugar", "eggs", "chocolate", "flour", "cocoa powder", "baking powder", "salt"],
+      "creatorId": 5,
+      "ratings": [5, 5, 4],
+      "tags": ["Dessert", "Chocolate"]
+    },
+    {
+      "recipeId": 4,
+      "name": "Vegetarian Chickpea Curry",
+      "imagePath": "images/vegetarian_chickpea_curry.jpg",
+      "description": "Vegetarian Chickpea Curry is a flavorful and nutritious dish. To make it, sauté onions, garlic, and ginger in oil until softened. Add curry powder, cumin, coriander, and turmeric and cook until fragrant. Stir in diced tomatoes, coconut milk, and drained chickpeas. Simmer until the sauce thickens and the flavors meld together. Serve hot with rice or naan bread.",
+      "ingredients": ["onion", "garlic", "ginger", "curry powder", "cumin", "coriander", "turmeric", "tomatoes", "coconut milk", "chickpeas"],
+      "creatorId": 6,
+      "ratings": [4, 5, 4],
+      "tags": ["Vegetarian", "Curry"]
+    },
+    {
+      "recipeId": 5,
+      "name": "Homemade Margherita Pizza",
+      "imagePath": "images/margherita_pizza.jpg",
+      "description": "Homemade Margherita Pizza is a classic Italian favorite. To make it, start by preparing pizza dough and stretching it into a round shape. Spread a thin layer of tomato sauce over the dough, leaving a border around the edges. Arrange slices of fresh mozzarella cheese and tomato on top of the sauce. Drizzle with olive oil and sprinkle with fresh basil leaves. Bake in a preheated oven until the crust is golden and the cheese is bubbly. Slice and serve hot.",
+      "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "tomato", "olive oil", "basil leaves"],
+      "creatorId": 7,
+      "ratings": [5, 4, 4],
+      "tags": ["Italian", "Pizza"]
+    },
+    {
+      "recipeId": 6,
+      "name": "Classic Beef Lasagna",
+      "imagePath": "images/beef_lasagna.jpg",
+      "description": "Classic Beef Lasagna is a hearty and comforting dish. To make it, start by browning ground beef in a pan with onions and garlic. Add tomato sauce, crushed tomatoes, and Italian seasoning, and simmer until the sauce thickens. In a separate bowl, mix together ricotta cheese, eggs, and grated Parmesan cheese. Layer cooked lasagna noodles with the meat sauce, ricotta mixture, and shredded mozzarella cheese in a baking dish. Repeat the layers and bake in the oven until bubbly and golden. Let it cool slightly before serving.",
+      "ingredients": ["ground beef", "onion", "garlic", "tomato sauce", "crushed tomatoes", "Italian seasoning", "lasagna noodles", "ricotta cheese", "eggs", "Parmesan cheese", "mozzarella cheese"],
+      "creatorId": 8,
+      "ratings": [4, 4, 5],
+      "tags": ["Italian", "Pasta"]
+    },
+    {
+      "recipeId": 7,
+      "name": "Lemon Garlic Roasted Chicken",
+      "imagePath": "images/roasted_chicken.jpg",
+      "description": "Lemon Garlic Roasted Chicken is a simple and flavorful dish. To make it, preheat the oven and prepare a baking dish. Rub the chicken with a mixture of minced garlic, lemon zest, olive oil, salt, and pepper. Place the chicken in the baking dish and roast until golden and cooked through, basting occasionally with pan juices. Serve hot with roasted vegetables and a squeeze of fresh lemon juice.",
+      "ingredients": ["whole chicken", "garlic", "lemon zest", "olive oil", "salt", "pepper"],
+      "creatorId": 9,
+      "ratings": [5, 5, 4],
+      "tags": ["Chicken", "Roast"]
+    },
+    {
+      "recipeId": 8,
+      "name": "Fresh Caprese Salad",
+      "imagePath": "images/caprese_salad.jpg",
+      "description": "Fresh Caprese Salad is a light and refreshing appetizer. To make it, slice ripe tomatoes and fresh mozzarella cheese into rounds. Arrange them alternately on a plate and sprinkle with fresh basil leaves. Drizzle with balsamic glaze and olive oil, and season with salt and pepper to taste. Serve immediately as a starter or side dish.",
+      "ingredients": ["tomatoes", "mozzarella cheese", "basil leaves", "balsamic glaze", "olive oil", "salt", "pepper"],
+      "creatorId": 10,
+      "ratings": [4, 4, 5],
+      "tags": ["Salad", "Italian"]
+    },
+    {
+      "recipeId": 9,
+      "name": "Creamy Mushroom Risotto",
+      "imagePath": "images/mushroom_risotto.jpg",
+      "description": "Creamy Mushroom Risotto is a comforting and creamy Italian dish. To make it, sauté chopped onions and minced garlic in butter until softened. Add Arborio rice and cook until translucent. Pour in white wine and simmer until absorbed. Gradually add hot chicken or vegetable broth, stirring constantly, until the rice is creamy and tender. Stir in sautéed mushrooms, grated Parmesan cheese, and chopped parsley. Serve hot with an extra sprinkle of Parmesan on top.",
+      "ingredients": ["onion", "garlic", "butter", "Arborio rice", "white wine", "chicken broth", "vegetable broth", "mushrooms", "Parmesan cheese", "parsley"],
+      "creatorId": 11,
+      "ratings": [5, 4, 4],
+      "tags": ["Italian", "Risotto"]
+    },
+    {
+      "recipeId": 10,
+      "name": "Crispy Baked Chicken Wings",
+      "imagePath": "images/chicken_wings.jpg",
+      "description": "Crispy Baked Chicken Wings are a healthier alternative to fried wings. To make them, toss chicken wing pieces in a mixture of flour, baking powder, salt, and pepper until coated. Place the wings on a greased baking sheet and bake in a hot oven until crispy and golden brown, flipping halfway through. Serve hot with your favorite dipping sauce.",
+      "ingredients": ["chicken wings", "flour", "baking powder", "salt", "pepper"],
+      "creatorId": 12,
+      "ratings": [4, 5, 4],
+      "tags": ["Chicken", "Appetizer"]
+    },
+    {
+      "recipeId": 11,
+      "name": "Homemade Beef Burgers",
+      "imagePath": "images/beef_burgers.jpg",
+      "description": "Homemade Beef Burgers are juicy and flavorful. To make them, mix together ground beef, breadcrumbs, egg, minced onion, Worcestershire sauce, salt, and pepper in a bowl. Form the mixture into patties and grill or cook in a skillet until cooked through. Serve on toasted buns with your favorite toppings.",
+      "ingredients": ["ground beef", "breadcrumbs", "egg", "onion", "Worcestershire sauce", "salt", "pepper"],
+      "creatorId": 13,
+      "ratings": [5, 5, 4],
+      "tags": ["Beef", "Burger"]
+    },
+    {
+      "recipeId": 12,
+      "name": "Fresh Strawberry Shortcake",
+      "imagePath": "images/strawberry_shortcake.jpg",
+      "description": "Fresh Strawberry Shortcake is a classic dessert perfect for summer. To make it, start by preparing homemade shortcakes using flour, sugar, baking powder, salt, butter, and milk. Bake until golden brown and let them cool. Slice fresh strawberries and toss them with sugar to release their juices. Split the shortcakes in half and layer with whipped cream and strawberries. Serve immediately for a delicious treat.",
+      "ingredients": ["flour", "sugar", "baking powder", "salt", "butter", "milk", "strawberries", "whipped cream"],
+      "creatorId": 14,
+      "ratings": [4, 4, 5],
+      "tags": ["Dessert", "Strawberry"]
+    },
+    {
+      "recipeId": 13,
+      "name": "Classic Margarita Cocktail",
+      "imagePath": "images/margarita_cocktail.jpg",
+      "description": "Classic Margarita Cocktail is a refreshing and tangy drink. To make it, rim a glass with salt by running a lime wedge around the rim and dipping it in salt. Fill the glass with ice cubes. In a shaker, combine tequila, triple sec, lime juice, and simple syrup. Shake well and strain into the prepared glass. Garnish with a lime wedge and enjoy!",
+      "ingredients": ["tequila", "triple sec", "lime juice", "simple syrup", "salt"],
+      "creatorId": 15,
+      "ratings": [5, 4, 4],
+      "tags": ["Cocktail", "Drink"]
+    },
+    {
+      "recipeId": 14,
+      "name": "Homemade Guacamole",
+      "imagePath": "images/guacamole.jpg",
+      "description": "Homemade Guacamole is a simple and flavorful dip. To make it, mash ripe avocados in a bowl with a fork. Stir in finely chopped onion, diced tomato, minced garlic, chopped cilantro, lime juice, and salt. Adjust seasoning to taste. Serve immediately with tortilla chips or as a topping for tacos and burritos.",
+      "ingredients": ["avocados", "onion", "tomato", "garlic", "cilantro", "lime juice", "salt"],
+      "creatorId": 16,
+      "ratings": [4, 5, 4],
+      "tags": ["Dip", "Mexican"]
+    },
+    {
+      "recipeId": 15,
+      "name": "Fresh Vegetable Spring Rolls",
+      "imagePath": "images/spring_rolls.jpg",
+      "description": "Fresh Vegetable Spring Rolls are a healthy and colorful appetizer. To make them, soak rice paper wrappers in warm water until soft. Lay a wrapper flat and arrange thinly sliced vegetables, such as carrots, cucumbers, bell peppers, and lettuce, in the center. Fold the sides of the wrapper over the filling and roll tightly. Serve with peanut dipping sauce or sweet chili sauce.",
+      "ingredients": ["rice paper wrappers", "carrots", "cucumbers", "bell peppers", "lettuce", "peanut dipping sauce", "sweet chili sauce"],
+      "creatorId": 17,
+      "ratings": [5, 5, 4],
+      "tags": ["Appetizer", "Healthy"]
+    },
+    {
+      "recipeId": 16,
+      "name": "Creamy Tomato Basil Soup",
+      "imagePath": "images/tomato_basil_soup.jpg",
+      "description": "Creamy Tomato Basil Soup is a comforting and flavorful dish. To make it, sauté onions and garlic in butter until softened. Add canned tomatoes, vegetable broth, and fresh basil leaves. Simmer until the tomatoes break down and the flavors meld together. Blend the soup until smooth and creamy. Stir in heavy cream and season with salt and pepper. Serve hot with crusty bread for dipping.",
+      "ingredients": ["onion", "garlic", "butter", "canned tomatoes", "vegetable broth", "fresh basil leaves", "heavy cream", "salt", "pepper"],
+      "creatorId": 18,
+      "ratings": [4, 4, 5],
+      "tags": ["Soup", "Tomato"]
+    },
+    {
+      "recipeId": 17,
+      "name": "Stuffed Bell Peppers",
+      "imagePath": "images/stuffed_bell_peppers.jpg",
+      "description": "Stuffed Bell Peppers are a delicious and satisfying meal. To make them, cut the tops off bell peppers and remove the seeds and membranes. Parboil the peppers in boiling water until slightly softened. In a skillet, cook ground beef with onions, garlic, and cooked rice until browned. Stir in diced tomatoes and seasonings. Stuff the peppers with the meat mixture and bake until tender. Serve hot with a sprinkle of cheese on top.",
+      "ingredients": ["bell peppers", "ground beef", "onion", "garlic", "cooked rice", "diced tomatoes", "seasonings", "cheese"],
+      "creatorId": 19,
+      "ratings": [5, 4, 4],
+      "tags": ["Beef", "Stuffed"]
+    },
+    {
+      "recipeId": 18,
+      "name": "Homemade Sushi Rolls",
+      "imagePath": "images/sushi_rolls.jpg",
+      "description": "Homemade Sushi Rolls are a fun and customizable dish. To make them, prepare sushi rice according to package instructions and let it cool. Place a sheet of nori on a bamboo sushi mat and spread a layer of rice evenly over it, leaving a border at the top. Arrange your choice of fillings, such as sliced cucumber, avocado, crab sticks, and smoked salmon, in the center. Roll up the sushi tightly using the mat. Slice into pieces and serve with soy sauce, pickled ginger, and wasabi.",
+      "ingredients": ["sushi rice", "nori", "cucumber", "avocado", "crab sticks", "smoked salmon", "soy sauce", "pickled ginger", "wasabi"],
+      "creatorId": 20,
+      "ratings": [4, 5, 4],
+      "tags": ["Japanese", "Sushi"]
+    },
+    {
+      "recipeId": 19,
+      "name": "Lemon Garlic Shrimp Pasta",
+      "imagePath": "images/shrimp_pasta.jpg",
+      "description": "Lemon Garlic Shrimp Pasta is a light and flavorful dish. To make it, cook pasta according to package instructions until al dente. In a skillet, sauté minced garlic in olive oil until fragrant. Add shrimp and cook until pink and opaque. Stir in lemon juice, lemon zest, and chopped parsley. Toss the cooked pasta with the shrimp mixture and season with salt and pepper. Serve hot with grated Parmesan cheese.",
+      "ingredients": ["pasta", "garlic", "olive oil", "shrimp", "lemon juice", "lemon zest", "parsley", "Parmesan cheese", "salt", "pepper"],
+      "creatorId": 1,
+      "ratings": [5, 5, 4],
+      "tags": ["Seafood", "Pasta"]
+    },
+    {
+      "recipeId": 20,
+      "name": "Homemade Chicken Noodle Soup",
+      "imagePath": "images/chicken_noodle_soup.jpg",
+      "description": "Homemade Chicken Noodle Soup is a comforting and nourishing dish. To make it, start by cooking diced onions, carrots, and celery in a pot until softened. Add chicken broth and bring to a simmer. Add cooked shredded chicken, egg noodles, and seasonings. Simmer until the noodles are tender. Serve hot with a sprinkle of chopped parsley on top.",
+      "ingredients": ["onion", "carrots", "celery", "chicken broth", "cooked chicken", "egg noodles", "seasonings", "parsley"],
+      "creatorId": 2,
+      "ratings": [4, 4, 5],
+      "tags": ["Soup", "Chicken"]
+    }
+  ]
